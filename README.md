@@ -1,5 +1,5 @@
 # Excel Sheet Filler
-## A python script that fills an Excel sheet with a string.
+### A python script that fills an Excel sheet with a string.
 
 # How to run
 ## 1. You need to have Python on your computer.
